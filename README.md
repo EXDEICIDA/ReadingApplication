@@ -52,7 +52,11 @@ Take a closer look at the Reading Application with these screenshots:
 
 ![Screenshot 4](https://github.com/EXDEICIDA/ReadingApplication/blob/a87cf3ed1e541b5ca245568910323b0cdfe5c642/BookAppShowCase/Screenshot%202024-03-19%20031809.png)
 
-*Screenshot 3: Choosing A Book For Reading In Search Engine*
+*Screenshot 4: Choosing A Book For Reading In Search Engine*
+
+![Screenshot 5](https://github.com/EXDEICIDA/ReadingApplication/blob/7c5884ddccb334e4cf15a8dfa53a2680a07e674a/BookAppShowCase/Screenshot%202024-03-19%20031837.png)
+
+*Screenshot 5: Tracking Pages,Books,Genres.*
 
 ## Usage
 

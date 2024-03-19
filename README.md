@@ -40,7 +40,7 @@ Take a closer look at the Reading Application with these screenshots:
 
 ![Screenshot 1](https://github.com/EXDEICIDA/ReadingApplication/blob/749ee1b38601f928968ece87d2c20995b52c94cc/BookAppShowCase/Screenshot%202024-03-19%20031551.png)
 
-*Screenshot 1: Reading Application - Main Interface*
+*Screenshot 1: Reading Application - Dashboard*
 
 ![Screenshot 2](https://github.com/EXDEICIDA/ReadingApplication/blob/749ee1b38601f928968ece87d2c20995b52c94cc/BookAppShowCase/Screenshot%202024-03-19%20031721.png)
 
@@ -48,11 +48,11 @@ Take a closer look at the Reading Application with these screenshots:
 
 ![Screenshot 3](https://github.com/EXDEICIDA/ReadingApplication/blob/749ee1b38601f928968ece87d2c20995b52c94cc/BookAppShowCase/Screenshot%202024-03-19%20032314.png)
 
-*Screenshot 3: Visualizing Reading Progress*
+*Screenshot 3: Built-In Note Taking Functionality*
 
 ![Screenshot 4](https://github.com/EXDEICIDA/ReadingApplication/blob/a87cf3ed1e541b5ca245568910323b0cdfe5c642/BookAppShowCase/Screenshot%202024-03-19%20031809.png)
 
-*Screenshot 3: Chosing A Book For Reading In Search Engine*
+*Screenshot 3: Choosing A Book For Reading In Search Engine*
 
 ## Usage
 

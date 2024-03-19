@@ -50,6 +50,10 @@ Take a closer look at the Reading Application with these screenshots:
 
 *Screenshot 3: Visualizing Reading Progress*
 
+![Screenshot 4](https://github.com/EXDEICIDA/ReadingApplication/blob/a87cf3ed1e541b5ca245568910323b0cdfe5c642/BookAppShowCase/Screenshot%202024-03-19%20031809.png)
+
+*Screenshot 3: Chosing A Book For Reading In Search Engine*
+
 ## Usage
 
 Getting started with the Reading Application is easy:

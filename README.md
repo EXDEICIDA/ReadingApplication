@@ -72,4 +72,8 @@ Getting started with the Reading Application is easy:
 The Reading Application is licensed under the [MIT License](https://opensource.org/licenses/MIT), giving you the freedom to modify and distribute the application as you see fit.
 
 ---
-Designed and developed by [Your Name] | [GitHub Profile](https://github.com/yourprofile)
+Designed and developed by Javad Soltanov | GitHub Profile
+
+
+
+
